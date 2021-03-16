@@ -1,0 +1,15 @@
+D:\VSCode\Practice\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.exe
+D:\VSCode\Practice\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.deps.json
+D:\VSCode\Practice\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.json
+D:\VSCode\Practice\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.dev.json
+D:\VSCode\Practice\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+D:\VSCode\Practice\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.pdb
+D:\VSCode\Practice\Challenge\Challenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csprojAssemblyReference.cache
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfoInputs.cache
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfo.cs
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csproj.CoreCompileInputs.cache
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csproj.CopyComplete
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.dll
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.pdb
+D:\VSCode\Practice\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.genruntimeconfig.cache
